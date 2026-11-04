@@ -6,3 +6,4 @@
 - 2026-11-04 05:15: ICNT-dip-limiet (0,19) gevuld om 02:34 UTC, nu bid 0,19015. Totaal €245,12 (ZRO -3,5%, BTC -1,6%). Les: cash volledig ingezet, geen ruimte voor nieuwe dips; volgende ronde overweeg ZRO-verlies te beperken als het onder 1,60 zakt.
 - 2026-11-04 09:15: Herstel naar €249,36 (ZRO 1,694 boven 1,60-grens, ICNT 0,1863 -2%). Geen actie; limieten RUNE 0,62 en ZRO 1,86 blijven. BTC-verplichting periode 1 al gevuld.
 - 2026-11-04 13:10: Totaal €244,95 (ICNT 0,1816 -4,4%, ZRO 1,658 nog boven 1,60-grens, BTC 69400 ≈ instap). Geen actie; ICNT-stop bij -8% (0,1748) volgende ronde toetsen. Les: alles-in met 4 posities geeft weinig wendbaarheid.
+- 2026-11-04 17:15: Totaal €248,46 (BTC 71749 +3,5%, ICNT 0,1875 herstelt, ZRO 1,648, RUNE 0,567). Geen stops geraakt; geen actie. Limieten RUNE 0,62 en ZRO 1,86 blijven.
