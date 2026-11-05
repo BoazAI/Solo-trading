@@ -9,3 +9,4 @@
 - 2026-11-04 17:15: Totaal €248,46 (BTC 71749 +3,5%, ICNT 0,1875 herstelt, ZRO 1,648, RUNE 0,567). Geen stops geraakt; geen actie. Limieten RUNE 0,62 en ZRO 1,86 blijven.
 - 2026-11-04 21:10: Totaal €244,76. ZRO 1,5756 (-6,5%) onder 1,60-grens maar boven -8%-stop 1,55; geen actie, volgende ronde stop toetsen.
 - 2026-11-05 01:12: Totaal €249,51 (ZRO 1,611 herstelt boven 1,60, ICNT 0,1944, BTC 71749). Geen stops geraakt; geen actie. Limieten RUNE 0,62 en ZRO 1,86 blijven; BTC periode 1 al gevuld.
+- 2026-11-05 05:10: Totaal €253,42 (ICNT 0,2034 +7%, RUNE 0,579 +3,5%, ZRO 1,616 -4%, BTC 71333 +2,9%). Geen stops geraakt; geen actie. Limieten RUNE 0,62 en ZRO 1,86 blijven.
