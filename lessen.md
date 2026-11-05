@@ -13,3 +13,4 @@
 - 2026-11-05 09:15: Totaal €252,58 (ICNT 0,2076 +9%, RUNE 0,567, ZRO 1,603 -4,5% boven stop 1,55, BTC 71563 +3,2%). Geen stops geraakt; geen actie. Limieten RUNE 0,62 en ZRO 1,86 blijven.
 - 2026-11-05 13:10: ZRO bid 1,5498 onder -8%-stop (1,55): limiet 3 geannuleerd en market verkocht. Les: stopregel uitgevoerd zoals gepland; ZRO bleef 2 dagen zwak terwijl ICNT/BTC stegen — zwakke posities eerder afkappen.
 - 2026-11-05 17:15: Totaal €241,99 (BTC 67968 -2%, RUNE 0,546, ICNT 0,1967). Markt breed lager; cash €73,30 aangehouden, geen nieuwe instap in dalende markt. Limiet RUNE 0,62 blijft; BTC periode 1 al gevuld.
+- 2026-11-05 21:15: Totaal €238,53, onder start en onder koers (~€276). v1 2 dagen zonder vooruitgang → v2: kortere TP's (RUNE 0,585, ICNT 0,205), INJ-dip-limiet 6,98 (€70). Les: te ver weggezette TP's leveren in een zijwaartse/dalende markt niets op. BTC 67754 (−2,3% t.o.v. instap 69341); periode 1 al gevuld.
