@@ -3,6 +3,6 @@ id,geplaatst_utc,paar,actie,aantal,limietprijs,status,afgehandeld_utc
 2,2026-11-03 16:18,RUNE-EUR,verkopen,142.69199598,0.62,geannuleerd,2026-11-05 20:15
 3,2026-11-03 16:18,ZRO-EUR,verkopen,47.36777987,1.86,geannuleerd,2026-11-05 12:09
 4,2026-11-05 20:15,RUNE-EUR,verkopen,142.69199598,0.585,geannuleerd,2026-11-06 04:13
-5,2026-11-05 20:15,ICNT-EUR,verkopen,315.31649894,0.205,open,
+5,2026-11-05 20:15,ICNT-EUR,verkopen,315.31649894,0.205,gevuld,2026-11-06 06:07
 6,2026-11-05 20:15,INJ-EUR,kopen,10.01363285,6.98,open,
 7,2026-11-06 04:13,RUNE-EUR,verkopen,142.69199598,0.575,open,
