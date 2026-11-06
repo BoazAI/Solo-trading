@@ -5,3 +5,4 @@ tijd_utc,paar,actie,aantal,prijs,bedrag_eur,fee_eur,type,notitie
 2026-11-04 02:34,ICNT-EUR,kopen,315.31649894,0.19,59.910135,0.089865,limit,"order 1, candle 2026-11-04 02:34"
 2026-11-05 12:09,ZRO-EUR,verkopen,47.36777987,1.5492,73.382165,0.183455,market,stop -8% v1
 2026-11-06 06:07,ICNT-EUR,verkopen,315.31649894,0.205,64.639882,0.096960,limit,"order 5, candle 2026-11-06 06:07"
+2026-11-06 08:18,ARB-EUR,kopen,402.68030724,0.14863,59.850374,0.149626,market,v3 relative strength risk-off
