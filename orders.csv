@@ -10,4 +10,4 @@ id,geplaatst_utc,paar,actie,aantal,limietprijs,status,afgehandeld_utc
 9,2026-11-06 08:18,INJ-EUR,kopen,9.84438835,7.1,geannuleerd,2026-11-06 16:19
 10,2026-11-06 12:12,RUNE-EUR,verkopen,142.69199598,0.56,geannuleerd,2026-11-06 16:18
 11,2026-11-06 16:20,PEPE-EUR,verkopen,16536176.02693236,4.75e-06,open,
-12,2026-11-06 16:20,INJ-EUR,kopen,9.69419657,7.21,open,
+12,2026-11-06 16:20,INJ-EUR,kopen,9.69419657,7.21,geannuleerd,2026-11-06 20:12
