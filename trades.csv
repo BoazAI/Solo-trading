@@ -7,3 +7,4 @@ tijd_utc,paar,actie,aantal,prijs,bedrag_eur,fee_eur,type,notitie
 2026-11-06 06:07,ICNT-EUR,verkopen,315.31649894,0.205,64.639882,0.096960,limit,"order 5, candle 2026-11-06 06:07"
 2026-11-06 08:18,ARB-EUR,kopen,402.68030724,0.14863,59.850374,0.149626,market,v3 relative strength risk-off
 2026-11-06 16:19,RUNE-EUR,verkopen,142.69199598,0.53345,76.119045,0.190298,market,v4 rotate weak RUNE
+2026-11-06 16:19,PEPE-EUR,kopen,16536176.02693236,4.5242e-06,74.812968,0.187032,market,v4 RS rotate from RUNE
