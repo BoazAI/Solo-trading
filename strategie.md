@@ -7,3 +7,7 @@ Reden: start; verdubbeling vereist agressieve, maar liquide inzetten; limieten w
 ## v2 — 2026-11-05 21:15
 Wijzigingen: kortere take-profits (RUNE 0,62 → 0,585, ICNT nieuw 0,205, ≈ +5-8% boven huidige bid) voor meer omloop; vrije cash niet stil laten staan maar als koop-dip-limiet op liquide coin met relatieve kracht (INJ, €1,7M volume, +3,9% in dalende markt) ~4% onder last (6,98, €70); stopregel -8% blijft; zwakke positie die 2 rondes onder instap blijft terwijl markt stijgt eerder opruimen.
 Reden: saldo €238,53 (−4,6%) ligt onder start en ver onder koers (~€276 nodig nu voor €500 op 18 nov); v1 bracht 2 dagen geen vooruitgang; TP's van +10-15% werden niet geraakt.
+
+## v3 — 2026-11-06 09:15
+Wijzigingen: risk-off-regime (BTC −5,5%, ~$1B liquidaties, tech-selloff) → geen chase op +20–50%-pumps (CYBER/ALIGN/BIRB); kapitaal naar relatieve kracht (ARB +1,5% bij breed rood, strakke spread, >€400k vol); INJ-dip aangescherpt 6,98→7,10 (ETF-nieuws, hogere vulkans); TP-band 4–6% voor snellere omloop; stop RUNE aangescherpt −8%→−6% (0,5257) om kapitaal sneller vrij te maken; max ~3 actieve posities + 1 dip-limiet; BTC blijft klein (verplichting periode 1 al gevuld). Na TP: alleen herinstappen op −3 tot −5% pullback, niet FOMO nabij highs (les ICNT 0,205→0,24).
+Reden: saldo ~€244 onder start en ver onder lineair pad (~€303 nodig nu voor €500 op 18 nov); v2 (~12u) leverde wel ICNT-TP (+~€4,6 na fee) maar netto geen inhaalslag; meer omloop + RS nodig i.p.v. wachten op verre dips/TP's.
