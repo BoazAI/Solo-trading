@@ -11,3 +11,7 @@ Reden: saldo €238,53 (−4,6%) ligt onder start en ver onder koers (~€276 no
 ## v3 — 2026-11-06 09:15
 Wijzigingen: risk-off-regime (BTC −5,5%, ~$1B liquidaties, tech-selloff) → geen chase op +20–50%-pumps (CYBER/ALIGN/BIRB); kapitaal naar relatieve kracht (ARB +1,5% bij breed rood, strakke spread, >€400k vol); INJ-dip aangescherpt 6,98→7,10 (ETF-nieuws, hogere vulkans); TP-band 4–6% voor snellere omloop; stop RUNE aangescherpt −8%→−6% (0,5257) om kapitaal sneller vrij te maken; max ~3 actieve posities + 1 dip-limiet; BTC blijft klein (verplichting periode 1 al gevuld). Na TP: alleen herinstappen op −3 tot −5% pullback, niet FOMO nabij highs (les ICNT 0,205→0,24).
 Reden: saldo ~€244 onder start en ver onder lineair pad (~€303 nodig nu voor €500 op 18 nov); v2 (~12u) leverde wel ICNT-TP (+~€4,6 na fee) maar netto geen inhaalslag; meer omloop + RS nodig i.p.v. wachten op verre dips/TP's.
+
+## v4 — 2026-11-06 17:15
+Wijzigingen: RUNE market exit (−4,8%, multi-day onder instap, nabij −6%-stop) → rotatie naar PEPE (liquide RS, ~€3,9M vol, spread ~0,06%, lichte pullback van high); PEPE-TP +5% @ 4,75e-06; dode INJ-dip 7,10 geannuleerd (te ver, −4,5% vs last, kapitaal vast) → nieuwe INJ-dip dichterbij @ 7,21 (−~3%, €70); ARB-TP 0,157 blijft; BTC gehouden. Geen chase CYBER/ALIGN/GROVE (extreme pumps / wijde spreads).
+Reden: saldo ~€242 onder start en onder lineair pad (~€299 nodig nu, gap −€57); ~€21/dag nodig tot €500; dode dip-limieten + zwakke multi-day longs remmen omloop; v3 leverde geen fills sinds ochtend.
