@@ -15,3 +15,7 @@ Reden: saldo ~€244 onder start en ver onder lineair pad (~€303 nodig nu voor
 ## v4 — 2026-11-06 17:15
 Wijzigingen: RUNE market exit (−4,8%, multi-day onder instap, nabij −6%-stop) → rotatie naar PEPE (liquide RS, ~€3,9M vol, spread ~0,06%, lichte pullback van high); PEPE-TP +5% @ 4,75e-06; dode INJ-dip 7,10 geannuleerd (te ver, −4,5% vs last, kapitaal vast) → nieuwe INJ-dip dichterbij @ 7,21 (−~3%, €70); ARB-TP 0,157 blijft; BTC gehouden. Geen chase CYBER/ALIGN/GROVE (extreme pumps / wijde spreads).
 Reden: saldo ~€242 onder start en onder lineair pad (~€299 nodig nu, gap −€57); ~€21/dag nodig tot €500; dode dip-limieten + zwakke multi-day longs remmen omloop; v3 leverde geen fills sinds ochtend.
+
+## v5 — 2026-11-06 21:15
+Wijzigingen: dode INJ-dip 7,21 (−5% vs last) → RAY-dip 1,592 (−~3%, €70) op verse RS (RAY +8%, strakke spread, volume); PEPE-TP 4,75e-06→4,65e-06 en ARB-TP 0,157→0,154 (beide net boven/rond daghoogte i.p.v. +5% in de lucht); BTC gehouden. Geen market-chase op ICNT/CYBER/GROVE (extreme pumps / FOMO na TP-miss).
+Reden: saldo ~€243 onder start en onder lineair pad (~€311 nodig nu, gap −€68); v4 (~4u) geen fills; dode dip + te hoge TP's blokkeren omloop overnight terwijl ~€21/dag nodig is tot €500.
