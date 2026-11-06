@@ -8,4 +8,4 @@ id,geplaatst_utc,paar,actie,aantal,limietprijs,status,afgehandeld_utc
 7,2026-11-06 04:13,RUNE-EUR,verkopen,142.69199598,0.575,geannuleerd,2026-11-06 12:12
 8,2026-11-06 08:18,ARB-EUR,verkopen,402.68030724,0.157,open,
 9,2026-11-06 08:18,INJ-EUR,kopen,9.84438835,7.1,open,
-10,2026-11-06 12:12,RUNE-EUR,verkopen,142.69199598,0.56,open,
+10,2026-11-06 12:12,RUNE-EUR,verkopen,142.69199598,0.56,geannuleerd,2026-11-06 16:18
