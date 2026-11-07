@@ -23,3 +23,7 @@ Reden: saldo ~€243 onder start en onder lineair pad (~€311 nodig nu, gap −
 ## v6 — 2026-11-07 05:15
 Wijzigingen: dode/te-nauwe RAY-dip 1,592 (−0,6% vs last, overnight geen fill) → HYPE-dip 69,21 (−~3%, €70) op liquide RS (+3,3%, ~€6,9M vol, spread ~0,02%, daglow 68,77 bereikbaar); PEPE-TP 4,65e-06 en ARB-TP 0,154 blijven (nabij daghoogte); BTC gehouden. Geen chase ICNT/GROVE/CARV/ACT.
 Reden: saldo ~€240 onder start en onder lineair pad (~€316 nodig nu, gap −€75); ~€22/dag nodig tot €500; v5 (~8u) geen fills; dip te dicht bij last = geen echte pullback-edge en kapitaal half-vast — liever −3% op sterker liquide RS.
+
+## v7 — 2026-11-07 09:15
+Wijzigingen: PEPE market exit (−2,2% / relatief zwak: dag −0,3% terwijl BTC/ETH +1%) → rotatie naar NEAR market €75 (liquide RS +1,3%, €2,4M vol, spread ~0,04%, niet extended t.o.v. daghoogte); NEAR-TP +3% @ 3,46; ARB-TP 0,154→0,152 (~+2% / binnen 24u-range i.p.v. op daghoogte); HYPE-dip 69,21 blijft (daglow 69,212 bijna geraakt); BTC gehouden.
+Reden: diepere 09:00-evaluatie. Saldo ~€241 onder start en onder lineair pad (~€318 nodig nu, gap −€77); ~€22/dag nodig tot €500. Sinds ICNT-TP (6 nov ochtend) ~24u geen fills — dode omloop. PEPE verloor RS; market-fee + zwakke coin = kapitaal rotatie naar verse, niet-extended RS met strakkere TPs binnen/nabij 24u-range.
