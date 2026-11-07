@@ -19,3 +19,7 @@ Reden: saldo ~€242 onder start en onder lineair pad (~€299 nodig nu, gap −
 ## v5 — 2026-11-06 21:15
 Wijzigingen: dode INJ-dip 7,21 (−5% vs last) → RAY-dip 1,592 (−~3%, €70) op verse RS (RAY +8%, strakke spread, volume); PEPE-TP 4,75e-06→4,65e-06 en ARB-TP 0,157→0,154 (beide net boven/rond daghoogte i.p.v. +5% in de lucht); BTC gehouden. Geen market-chase op ICNT/CYBER/GROVE (extreme pumps / FOMO na TP-miss).
 Reden: saldo ~€243 onder start en onder lineair pad (~€311 nodig nu, gap −€68); v4 (~4u) geen fills; dode dip + te hoge TP's blokkeren omloop overnight terwijl ~€21/dag nodig is tot €500.
+
+## v6 — 2026-11-07 05:15
+Wijzigingen: dode/te-nauwe RAY-dip 1,592 (−0,6% vs last, overnight geen fill) → HYPE-dip 69,21 (−~3%, €70) op liquide RS (+3,3%, ~€6,9M vol, spread ~0,02%, daglow 68,77 bereikbaar); PEPE-TP 4,65e-06 en ARB-TP 0,154 blijven (nabij daghoogte); BTC gehouden. Geen chase ICNT/GROVE/CARV/ACT.
+Reden: saldo ~€240 onder start en onder lineair pad (~€316 nodig nu, gap −€75); ~€22/dag nodig tot €500; v5 (~8u) geen fills; dip te dicht bij last = geen echte pullback-edge en kapitaal half-vast — liever −3% op sterker liquide RS.
