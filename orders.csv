@@ -12,6 +12,6 @@ id,geplaatst_utc,paar,actie,aantal,limietprijs,status,afgehandeld_utc
 11,2026-11-06 16:20,PEPE-EUR,verkopen,16536176.02693236,4.75e-06,geannuleerd,2026-11-06 20:12
 12,2026-11-06 16:20,INJ-EUR,kopen,9.69419657,7.21,geannuleerd,2026-11-06 20:12
 13,2026-11-06 20:12,RAY-EUR,kopen,43.90399326,1.592,geannuleerd,2026-11-07 04:13
-14,2026-11-06 20:12,PEPE-EUR,verkopen,16536176.02693236,4.65e-06,open,
+14,2026-11-06 20:12,PEPE-EUR,verkopen,16536176.02693236,4.65e-06,geannuleerd,2026-11-07 08:17
 15,2026-11-06 20:12,ARB-EUR,verkopen,402.68030724,0.154,open,
 16,2026-11-07 04:13,HYPE-EUR,kopen,1.00989969,69.21,open,
