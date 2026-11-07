@@ -20,3 +20,4 @@ id,geplaatst_utc,paar,actie,aantal,limietprijs,status,afgehandeld_utc
 19,2026-11-07 12:18,NEAR-EUR,verkopen,22.27239285,3.4,geannuleerd,2026-11-07 16:17
 20,2026-11-07 12:18,QNT-EUR,kopen,0.40660359,171.9,open,
 21,2026-11-07 16:17,NEAR-EUR,verkopen,22.27239285,3.38,open,
+22,2026-11-07 16:17,ARB-EUR,verkopen,402.68030724,0.1515,open,
