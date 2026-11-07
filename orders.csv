@@ -17,3 +17,4 @@ id,geplaatst_utc,paar,actie,aantal,limietprijs,status,afgehandeld_utc
 16,2026-11-07 04:13,HYPE-EUR,kopen,1.00989969,69.21,geannuleerd,2026-11-07 12:18
 17,2026-11-07 08:17,ARB-EUR,verkopen,402.68030724,0.152,open,
 18,2026-11-07 08:17,NEAR-EUR,verkopen,22.27239285,3.46,geannuleerd,2026-11-07 12:18
+19,2026-11-07 12:18,NEAR-EUR,verkopen,22.27239285,3.4,open,
