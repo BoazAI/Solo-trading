@@ -15,3 +15,4 @@ id,geplaatst_utc,paar,actie,aantal,limietprijs,status,afgehandeld_utc
 14,2026-11-06 20:12,PEPE-EUR,verkopen,16536176.02693236,4.65e-06,geannuleerd,2026-11-07 08:17
 15,2026-11-06 20:12,ARB-EUR,verkopen,402.68030724,0.154,geannuleerd,2026-11-07 08:17
 16,2026-11-07 04:13,HYPE-EUR,kopen,1.00989969,69.21,open,
+17,2026-11-07 08:17,ARB-EUR,verkopen,402.68030724,0.152,open,
