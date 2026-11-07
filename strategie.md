@@ -27,3 +27,7 @@ Reden: saldo ~€240 onder start en onder lineair pad (~€316 nodig nu, gap −
 ## v7 — 2026-11-07 09:15
 Wijzigingen: PEPE market exit (−2,2% / relatief zwak: dag −0,3% terwijl BTC/ETH +1%) → rotatie naar NEAR market €75 (liquide RS +1,3%, €2,4M vol, spread ~0,04%, niet extended t.o.v. daghoogte); NEAR-TP +3% @ 3,46; ARB-TP 0,154→0,152 (~+2% / binnen 24u-range i.p.v. op daghoogte); HYPE-dip 69,21 blijft (daglow 69,212 bijna geraakt); BTC gehouden.
 Reden: diepere 09:00-evaluatie. Saldo ~€241 onder start en onder lineair pad (~€318 nodig nu, gap −€77); ~€22/dag nodig tot €500. Sinds ICNT-TP (6 nov ochtend) ~24u geen fills — dode omloop. PEPE verloor RS; market-fee + zwakke coin = kapitaal rotatie naar verse, niet-extended RS met strakkere TPs binnen/nabij 24u-range.
+
+## v8 — 2026-11-07 13:20
+Wijzigingen: NEAR-TP 3,46→3,40 (was boven daghoogte 3,427; nu ín 24u-range, ~+2% boven bid); HYPE-dip 69,21 geannuleerd (RS verdwenen: was +3,3% → nu −0,4%; afstand last nog maar −1,2% = te nauw); nieuwe QNT-dip 171,9 (−~3%, €70) op verse RS (+3,7%, ~€1,7M vol, spread ~0,1%, binnen dagrange lo 168); ARB-TP 0,152 blijft; BTC gehouden.
+Reden: saldo ~€240 onder start en onder lineair pad (~€321 nodig nu, gap −€81); ~€23/dag nodig tot €500. Korte 13:00-ronde: geen market-chase; wel dode/te-hoge limieten opruimen voor overnight vulkans tot 17:15. Geen chase EPIC/ICNT/ACT/GROVE.
